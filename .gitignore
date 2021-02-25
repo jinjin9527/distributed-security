@@ -1,0 +1,5 @@
+# Project exclude paths
+/distributed-security-eureka-server/target/
+/distributed-security-gateway/target/
+/distributed-security-order/target/
+/distributed-security-uaa/target/
